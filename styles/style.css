@@ -438,7 +438,7 @@ img {
   text-align: center;
 }
 
-.item img:hover + .txtdisp {
+.item:hover img + .txtdisp {
   opacity: 1;
 }
 
@@ -460,19 +460,10 @@ img {
   object-fit: fill;
 }
 
-.item-1 img:hover {
-  transform: scale(1.2);
+.item {
+  transition: all 500ms ease-out;
 }
-
-.item-2 img:hover {
-  transform: scale(1.2);
-}
-
-.item-3 img:hover {
-  transform: scale(1.2);
-}
-
-.item-4 img:hover {
+.item:hover {
   transform: scale(1.2);
 }
 
