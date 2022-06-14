@@ -1,2 +1,2 @@
 # ecommerce
-ecommerce html or css
+created an ecommerce website with only html and css
