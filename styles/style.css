@@ -65,7 +65,7 @@ body {
 }
 
 .app-jumbotron {
-  background-image: url(/images/ecommerce-jumbotron.jpg);
+  background-image: url(./images/ecommerce-jumbotron.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   height: 400px;
@@ -224,7 +224,7 @@ img {
   position: relative;
   z-index: 0;
   background-color: lightgray;
-  background-image: url('/images/prod3.jpg');
+  background-image: url('./images/prod3.jpg');
   background-repeat: no-repeat;
   background-attachment: scroll; 
   background-size: 100% 100%;
